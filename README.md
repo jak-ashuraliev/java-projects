@@ -1,2 +1,2 @@
 # java-projects
-Small Java Projects and Assignments for AD Application Developer Program
+Java Projects and Assignments for AD Application Developer Program.
