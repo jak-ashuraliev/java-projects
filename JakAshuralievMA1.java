@@ -11,10 +11,10 @@ package com.mycompany.jakashuralievma1;
  * Assignment # 1
  * Purpose: Write a method that removes the duplicate elements from an ArrayList of integers
  */
-
-import java.util.ArrayList;
+ 
 import java.util.Scanner;
 import java.util.Collections;
+import java.util.ArrayList;
 
 public class JakAshuralievMA1 {
 
